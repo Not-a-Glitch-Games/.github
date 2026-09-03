@@ -32,3 +32,13 @@
 - 📺 **YouTube**: [@notaglitchstudios](https://www.youtube.com/@notaglitchstudios)
 - 🕹️ **Itch.io Releases & Benchmarks**: [lunasidegames.itch.io](https://lunasidegames.itch.io/)
 - ⚡ **GameJolt**: [NotaGlitchGames on GameJolt](https://gamejolt.com/@NotaGlitchGames)
+
+---
+
+## 🤝 Team & Credits
+
+- **Lead Developer**: [TheAndromedaCat](https://www.andromedacat.net/) [ᴳᴴ](https://github.com/TheAndromedaCat)
+- **Creative Director**: [Mark](https://www.youtube.com/@Markkill2580) [ᴳᴴ](https://github.com/Markkill2580)
+- **Main Artist**: [An](https://www.youtube.com/@anonymousboi2698) [ᴳᴴ](https://github.com/anonymousboi91)
+- **Concept Artist**: [Scrambao](https://x.com/scrambao)
+- **Music Producer**: [Wengue](https://www.youtube.com/@wengyboi)
