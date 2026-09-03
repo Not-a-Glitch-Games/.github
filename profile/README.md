@@ -22,7 +22,7 @@
   A ported resource collection of Half-Life 2 textures for modders creating maps and addons in Source 2 games (S&box, Half-Life: Alyx, SteamVR).
 
 - 🧪 **[HyLife: Gaia's Mod](https://github.com/Not-a-Glitch-Games/HyLife-Gaias-Mod)**  
-  A Half-Life porting and recreation modding initiative developed for [Hytale](https://hytale.com).
+  A Half-Life porting and recreation modding initiative developed for [Hytale](https://hytale.com) (Hytale Team: [TheAndromedaCat](https://github.com/TheAndromedaCat), [CD Breaker](https://github.com/CurseDBreaker)).
 
 ---
 
@@ -42,3 +42,4 @@
 - **Main Artist**: [An](https://www.youtube.com/@anonymousboi2698) [ᴳᴴ](https://github.com/anonymousboi91)
 - **Concept Artist**: [Scrambao](https://x.com/scrambao)
 - **Music Producer**: [Wengue](https://www.youtube.com/@wengyboi)
+- **Hytale Team**: [TheAndromedaCat](https://github.com/TheAndromedaCat) [ᴳᴴ](https://github.com/TheAndromedaCat), [CD Breaker](https://github.com/CurseDBreaker) [ᴳᴴ](https://github.com/CurseDBreaker)
