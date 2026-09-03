@@ -18,9 +18,6 @@
 - 💜 **[Undertale Indigo Rain](https://gamejolt.com/games/utir/1024321)**  
   An Undertale fangame focused on the PERSEVERANCE soul, heavily inspired by Undertale Yellow.
 
-- 🎨 **[Half-Life 2 Textures for Source 2](https://github.com/Not-a-Glitch-Games/hl2textures-for-Source-2)** *(Archive)*  
-  A ported resource collection archive of Half-Life 2 textures for modders creating maps and addons in Source 2 games (S&box, Half-Life: Alyx, SteamVR).
-
 - 🧪 **[HyLife: Gaia's Mod](https://github.com/Not-a-Glitch-Games/HyLife-Gaias-Mod)**  
   A Half-Life porting and recreation modding initiative developed for [Hytale](https://hytale.com) (Hytale Team: [TheAndromedaCat](https://github.com/TheAndromedaCat), [CD Breaker](https://github.com/CurseDBreaker)).
 
