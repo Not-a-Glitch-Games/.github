@@ -10,7 +10,13 @@
 
 ---
 
-## 🚀 Featured Projects & Assets
+## 🚀 Featured Projects & Games
+
+- Δ **[BLΔNK](https://gamejolt.com/games/blank/1024319)**  
+  An RPG / action / bullet hell project on GameJolt.
+
+- 💜 **[Undertale Indigo Rain](https://gamejolt.com/games/utir/1024321)**  
+  An Undertale fangame focused on the PERSEVERANCE soul, heavily inspired by Undertale Yellow.
 
 - 🎨 **[Half-Life 2 Textures for Source 2](https://github.com/Not-a-Glitch-Games/hl2textures-for-Source-2)**  
   A ported resource collection of Half-Life 2 textures for modders creating maps and addons in Source 2 games (S&box, Half-Life: Alyx, SteamVR).
