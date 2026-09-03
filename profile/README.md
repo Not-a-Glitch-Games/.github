@@ -25,4 +25,4 @@
 - 🌐 **Games Page**: [notaglitch.net/games](https://www.notaglitch.net/games)
 - 📺 **YouTube**: [@notaglitchstudios](https://www.youtube.com/@notaglitchstudios)
 - 🕹️ **Itch.io Releases & Benchmarks**: [lunasidegames.itch.io](https://lunasidegames.itch.io/)
-- ⚡ **GameJolt**: [NotaGlitchGames on GameJolt](https://gamejolt.com/@NotaGlitchGames/games)
+- ⚡ **GameJolt**: [NotaGlitchGames on GameJolt](https://gamejolt.com/@NotaGlitchGames)
